@@ -67,5 +67,3 @@
     <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/KeerthanaSambhu/KeerthanaSambhu/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </p>
-  <sub>Always building. ✦</sub>
-</p>
