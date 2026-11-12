@@ -17,31 +17,32 @@
   </a>
 </p>
 
+
 <h2 align="center">✦ What I'm Interested In</h2>
 
 <p align="center">
-  Exploring technology through practical projects and continuous learning.
+  <i>Exploring ideas, building practical solutions, and continuously learning.</i>
 </p>
 
-<table>
+<table width="100%">
   <tr>
-    <td width="50%">
-      <h3> AI & Machine Learning</h3>
-      Exploring practical and explainable AI applications.
+    <td align="center" width="50%">
+      <h3>AI & Machine Learning</h3>
+      <p>Exploring practical AI applications, intelligent systems, and explainable machine learning.</p>
     </td>
-    <td width="50%">
-      <h3> Data Analytics</h3>
-      Finding patterns, communicating insights, and building dashboards.
+    <td align="center" width="50%">
+      <h3>Data Analytics</h3>
+      <p>Discovering patterns, transforming data into insights, and creating meaningful dashboards.</p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3> Full Stack Development</h3>
-      Building responsive web applications, backend systems, and seamless user experiences.
+    <td align="center" width="50%">
+      <h3>Full Stack Development</h3>
+      <p>Building responsive web applications, backend systems, and seamless user experiences.</p>
     </td>
-    <td width="50%">
-      <h3> Application Development</h3>
-      Building and improving projects across web and Android.
+    <td align="center" width="50%">
+      <h3>Application Development</h3>
+      <p>Creating and improving applications across web and Android platforms.</p>
     </td>
   </tr>
 </table>
