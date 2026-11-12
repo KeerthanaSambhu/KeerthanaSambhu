@@ -13,7 +13,6 @@
  <a href="https://www.linkedin.com/in/kirtna/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-  -->
 </p>✦ What I'm interested in
 - AI & Machine Learning — exploring practical, explainable AI applications.
 - Data Analytics — finding patterns, communicating insights, and building dashboards.
