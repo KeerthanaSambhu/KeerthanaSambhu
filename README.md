@@ -51,20 +51,20 @@
   The languages, frameworks, and tools I use to bring ideas to life.
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/C-272D3B?style=for-the-badge&logo=c&logoColor=A8B8FF" alt="C" />
-  <img src="https://img.shields.io/badge/Java-272D3B?style=for-the-badge&logo=openjdk&logoColor=E6A36B" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-272D3B?style=for-the-badge&logo=python&logoColor=9CCBFF" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-272D3B?style=for-the-badge&logo=postgresql&logoColor=9CCBFF" alt="SQL" />
-  <img src="https://img.shields.io/badge/Power%20BI-272D3B?style=for-the-badge&logo=powerbi&logoColor=F2D36B" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Pandas-272D3B?style=for-the-badge&logo=pandas&logoColor=C5B5FF" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-272D3B?style=for-the-badge&logo=numpy&logoColor=9CCBFF" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Matplotlib-272D3B?style=for-the-badge&logo=python&logoColor=FFFFFF" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/React-272D3B?style=for-the-badge&logo=react&logoColor=8BE3F5" alt="React" />
-  <img src="https://img.shields.io/badge/FastAPI-272D3B?style=for-the-badge&logo=fastapi&logoColor=8DE0C2" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Streamlit-272D3B?style=for-the-badge&logo=streamlit&logoColor=FF9EAB" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/Kotlin-272D3B?style=for-the-badge&logo=kotlin&logoColor=C5A8FF" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Supabase-272D3B?style=for-the-badge&logo=supabase&logoColor=8DE0A8" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Git-272D3B?style=for-the-badge&logo=git&logoColor=F29B78" alt="Git" />
+  <img src="https://img.shields.io/badge/C-3949AB?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Java-E76F51?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 ✦ Selected projects
 <table>
