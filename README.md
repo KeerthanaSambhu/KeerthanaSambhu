@@ -18,6 +18,7 @@
 </p>
 
 
+
 <h2 align="center">✦ What I'm Interested In</h2>
 
 <p align="center">
@@ -26,28 +27,29 @@
 
 <table width="100%">
   <tr>
-    <td align="center" width="50%">
-      <h3>AI & Machine Learning</h3>
-      <p>Exploring practical AI applications, intelligent systems, and explainable machine learning.</p>
+    <td width="50%" align="center" valign="middle">
+      <h3 align="center">AI & Machine Learning</h3>
+      <p align="center">Exploring practical AI applications, intelligent systems, and explainable machine learning.</p>
     </td>
-    <td align="center" width="50%">
-      <h3>Data Analytics</h3>
-      <p>Discovering patterns, transforming data into insights, and creating meaningful dashboards.</p>
+    <td width="50%" align="center" valign="middle">
+      <h3 align="center">Data Analytics</h3>
+      <p align="center">Discovering patterns, transforming data into insights, and creating meaningful dashboards.</p>
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
-      <h3>Full Stack Development</h3>
-      <p>Building responsive web applications, backend systems, and seamless user experiences.</p>
+    <td width="50%" align="center" valign="middle">
+      <h3 align="center">Full Stack Development</h3>
+      <p align="center">Building responsive web applications, backend systems, and seamless user experiences.</p>
     </td>
-    <td align="center" width="50%">
-      <h3>Application Development</h3>
-      <p>Creating and improving applications across web and Android platforms.</p>
+    <td width="50%" align="center" valign="middle">
+      <h3 align="center">Application Development</h3>
+      <p align="center">Creating and improving applications across web and Android platforms.</p>
     </td>
   </tr>
 </table>
 
 <br/>
+
 
 ---
 
