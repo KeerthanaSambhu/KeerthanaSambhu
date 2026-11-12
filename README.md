@@ -38,13 +38,13 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🍱 Tiffin</h3>
+      <h3> Tiffin</h3>
       <p>An Android app concept for discovering home kitchens and browsing tiffin options.</p>
       <p><strong>Tech:</strong> Kotlin · Jetpack Compose</p>
       <a href="https://github.com/KeerthanaSambhu/Tiffin">View repository →</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🎙️ Aura — Skincare Voice Agent</h3>
+      <h3> Aura — Skincare Voice Agent</h3>
       <p>A voice-based skincare assistant designed to make product and routine guidance more conversational.</p>
       <p><strong>Tech:</strong> Python · FastAPI · React · AI</p>
       <a href="https://github.com/KeerthanaSambhu/aura-skincare-voice-agent">View repository →</a>
