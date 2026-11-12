@@ -53,7 +53,7 @@
 <h2 align="center">✦ Technologies & Tools</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,python,kotlin,react,fastapi,supabase,git,github,flutter,postgres,tailwind,html,css,js,ts&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=c,java,python,kotlin,react,fastapi,supabase,git,github,flutter,postgres,tailwind,html,css,js,ts&theme=dark&perline=8" />
 </p>
 
 ✦ Selected projects
