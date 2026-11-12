@@ -63,36 +63,6 @@
   <img src="https://skillicons.dev/icons?i=c,java,python,kotlin,react,fastapi,supabase,git,github,flutter,postgres,tailwind,html,css,js,ts&theme=dark&perline=8" />
 </p>
 
-✦ Selected projects
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3> Tiffin</h3>
-      <p>An Android app concept for discovering home kitchens and browsing tiffin options.</p>
-      <p><strong>Tech:</strong> Kotlin · Jetpack Compose</p>
-      <a href="https://github.com/KeerthanaSambhu/Tiffin">View repository →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3> Aura — Skincare Voice Agent</h3>
-      <p>A voice-based skincare assistant designed to make product and routine guidance more conversational.</p>
-      <p><strong>Tech:</strong> Python · FastAPI · React · AI</p>
-      <a href="https://github.com/KeerthanaSambhu/aura-skincare-voice-agent">View repository →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3> AI Library Management System</h3>
-      <p>A library management application combining a web interface with a backend API.</p>
-      <p><strong>Tech:</strong> FastAPI · React · Vite</p>
-      <a href="https://github.com/KeerthanaSambhu/AI-Based-Library-Management">View repository →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3> Which Group, What Project?</h3>
-      <p>A project-group coordination tool built to help students organise teams and project ideas.</p>
-      <p><strong>Tech:</strong> Python · Streamlit · Supabase</p>
-      <a href="https://github.com/KeerthanaSambhu/which-group-what-project">View repository →</a>
-    </td>
-  </tr>
 </table>✦ GitHub at a glance
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=KeerthanaSambhu&show_icons=true&hide_border=true&bg_color=0D1117&title_color=B9A5FF&icon_color=8FCBFF&text_color=C9D1D9&rank_icon=github" alt="Keerthana's GitHub statistics" />
