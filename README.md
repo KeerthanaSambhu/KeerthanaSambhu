@@ -10,10 +10,9 @@
   <a href="https://github.com/KeerthanaSambhu">
     <img src="https://img.shields.io/badge/GitHub-KeerthanaSambhu-8B7AE8?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
   </a>
-  <!-- Add your LinkedIn URL when ready:
-  <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/kirtna/)">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-6C9BCF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+ <a href="https://www.linkedin.com/in/kirtna/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
   -->
 </p>✦ What I'm interested in
 - AI & Machine Learning — exploring practical, explainable AI applications.
