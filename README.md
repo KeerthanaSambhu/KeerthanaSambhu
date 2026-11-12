@@ -1,4 +1,4 @@
-<img src="assets/git_bannerr.gif" alt="Profile banner" width="100%" />
+<img src="assets/cat_banner.gif" alt="Profile banner" width="100%" />
 </p><h1 align="center">Hi, I'm Keerthana </h1><p align="center">
   <strong>Computer Engineering | AI & Data Science | Building thoughtful tech solutions</strong>
 </p><p align="center">
