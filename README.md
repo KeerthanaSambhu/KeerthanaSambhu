@@ -53,11 +53,11 @@
 <h2 align="center">✦ Technologies & Tools</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,python,kotlin,react,fastapi,streamlit,supabase,git,github,vscode,androidstudio&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,java,python,kotlin,react,fastapi,streamlit,supabase,git,github,vscode,androidstudio&theme=light" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,postgres,mysql,html,css,js,ts&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,postgres,mysql,html,css,js,ts&theme=light" />
 </p>
 
 ✦ Selected projects
