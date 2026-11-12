@@ -55,7 +55,6 @@
 </table>
 
 <br/>
----
 
 <h2 align="center">✦ Technologies & Tools</h2>
 
