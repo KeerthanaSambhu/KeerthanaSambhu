@@ -1,6 +1,6 @@
 <img src="assets/cat_banner.gif" alt="Profile banner" width="100%" />
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&duration=2500&pause=1000&color=87CEEB&center=true&vCenter=true&width=1000&lines=KEERTHANA+SAMBHU" alt="KEERTHANA SAMBHU" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&duration=2500&pause=1000&color=FFB6C1&center=true&vCenter=true&width=1000&lines=KEERTHANA+SAMBHU" alt="KEERTHANA SAMBHU" />
 </h1>
 <p align="center">  
   <strong>Computer Engineering | AI & Data Science | Building thoughtful tech solutions</strong>
@@ -21,7 +21,7 @@
   </a>
 </p>
 
-<img src="assets/hello_kitty.gif" width="35" alt="Hello Kitty animation" /> What I'm Interested In</h2>
+<h2 align="center"><img src="assets/hello_kitty.gif" width="35" alt="Hello Kitty animation" /> What I'm Interested In</h2>
 
 <p align="center">
   <i>Exploring ideas, building practical solutions, and continuously learning.</i>
@@ -58,7 +58,7 @@
   </tr>
 </table>
 <br/>
-<img src="assets/hello_kitty.gif" width="35" alt="Hello Kitty animation" /> Technologies & Tools</h2>
+<h2 align="center"><img src="assets/hello_kitty.gif" width="35" alt="Hello Kitty animation" /> Technologies & Tools</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,java,python,kotlin,react,fastapi,supabase,git,github,flutter,postgres,tailwind,html,css,js,ts&theme=dark&perline=8" />
