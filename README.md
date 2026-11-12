@@ -11,13 +11,45 @@
  <a href="https://www.linkedin.com/in/kirtna/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-</p>✦ What I'm interested in
-- AI & Machine Learning — exploring practical, explainable AI applications.
-- Data Analytics — finding patterns, communicating insights, and building dashboards.
-- Full Stack Development — building responsive web applications, developing backend systems, and creating seamless user experiences.
-- Application Development — building and improving projects across web and Android.
-✦ Technologies & tools
 
+<h2 align="center">✦ What I'm Interested In</h2>
+
+<p align="center">
+  Exploring technology through practical projects and continuous learning.
+</p>
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3> AI & Machine Learning</h3>
+      Exploring practical and explainable AI applications.
+    </td>
+    <td width="50%">
+      <h3> Data Analytics</h3>
+      Finding patterns, communicating insights, and building dashboards.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3> Full Stack Development</h3>
+      Building responsive web applications, backend systems, and seamless user experiences.
+    </td>
+    <td width="50%">
+      <h3> Application Development</h3>
+      Building and improving projects across web and Android.
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+<h2 align="center">✦ Technologies & Tools</h2>
+
+<p align="center">
+  The languages, frameworks, and tools I use to bring ideas to life.
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/C-272D3B?style=for-the-badge&logo=c&logoColor=A8B8FF" alt="C" />
   <img src="https://img.shields.io/badge/Java-272D3B?style=for-the-badge&logo=openjdk&logoColor=E6A36B" alt="Java" />
