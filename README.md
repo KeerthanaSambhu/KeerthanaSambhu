@@ -1,6 +1,6 @@
 <img src="assets/cat_banner.gif" alt="Profile banner" width="100%" />
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&duration=2500&pause=1000&color=FFB6C1&center=true&vCenter=true&width=1000&lines=KEERTHANA+SAMBHU" alt="KEERTHANA SAMBHU" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&duration=2500&pause=1000&color=FADADD&center=true&vCenter=true&width=1000&lines=KEERTHANA+SAMBHU" alt="KEERTHANA SAMBHU" />
 </h1>
 <p align="center">  
   <strong>Computer Engineering | AI & Data Science | Building thoughtful tech solutions</strong>
