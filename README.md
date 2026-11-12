@@ -1,5 +1,7 @@
 <img src="assets/cat_banner.gif" alt="Profile banner" width="100%" />
-</p><h1 align="center">Hi, I'm Keerthana </h1><p align="center">
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=38&duration=2500&pause=1000&color=B69CFF&center=true&vCenter=true&width=600&lines=KEERTHANA+SAMBHU" alt="KEERTHANA SAMBHU" />
+</h1>
   <strong>Computer Engineering | AI & Data Science | Building thoughtful tech solutions</strong>
 </p><p align="center">
   I’m a final-year Computer Engineering student specialising in AI & Data Science.
