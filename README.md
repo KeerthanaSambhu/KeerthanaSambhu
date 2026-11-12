@@ -6,8 +6,7 @@
   <strong>Computer Engineering | AI & Data Science | Building thoughtful tech solutions</strong>
 </p>
 </p><p align="center">
-  I’m a final-year Computer Engineering student specialising in AI & Data Science.
-  I enjoy building practical applications, exploring AI-powered experiences, and turning data into useful insights.
+  I’m a final-year Computer Engineering student specialising in AI & Data Science turning ideas into applications, data into insights, and random curiosity into projects.
 
 <p align="center">
   <a href="https://github.com/KeerthanaSambhu">
