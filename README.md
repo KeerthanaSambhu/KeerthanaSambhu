@@ -21,7 +21,7 @@
   </a>
 </p>
 
-<h2 align="center">✦ What I'm Interested In</h2>
+<h2 align="center"><img src="YOUR_GIF_URL" width="20" alt="Sparkling star" /> What I'm Interested In</h2>
 
 <p align="center">
   <i>Exploring ideas, building practical solutions, and continuously learning.</i>
@@ -58,11 +58,12 @@
   </tr>
 </table>
 <br/>
-<h2 align="center">✦ Technologies & Tools</h2>
+<h2 align="center"><img src="YOUR_GIF_URL" width="20" alt="Sparkling star" /> Technologies & Tools</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,java,python,kotlin,react,fastapi,supabase,git,github,flutter,postgres,tailwind,html,css,js,ts&theme=dark&perline=8" />
 </p>
+<h2 align="center"><img src="YOUR_GIF_URL" width="20" alt="Sparkling star" /> Stats</h2>
 
 <p align="center">
   <picture>
