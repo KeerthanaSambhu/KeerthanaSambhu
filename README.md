@@ -62,11 +62,5 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,java,python,kotlin,react,fastapi,supabase,git,github,flutter,postgres,tailwind,html,css,js,ts&theme=dark&perline=8" />
 </p>
-
-</table>✦ GitHub at a glance
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KeerthanaSambhu&show_icons=true&hide_border=true&bg_color=0D1117&title_color=B9A5FF&icon_color=8FCBFF&text_color=C9D1D9&rank_icon=github" alt="Keerthana's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeerthanaSambhu&layout=compact&hide_border=true&bg_color=0D1117&title_color=B9A5FF&text_color=C9D1D9" alt="Most used languages" />
-</p><p align="center">
-  <sub>Always learning. Always building. ✦</sub>
+  <sub>Always building. ✦</sub>
 </p>
