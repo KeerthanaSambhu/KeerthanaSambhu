@@ -79,3 +79,19 @@
     </td>
   </tr>
 </table>
+<h2 align="left">✦ Languages</h2>
+
+<table width="100%">
+  <tr>
+    <td width="30%" align="center" valign="middle">
+      <img src="assets/hello_kitty.gif" width="100%" alt="Hello Kitty animation" />
+    </td>
+    <td width="70%" align="center" valign="middle">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeerthanaSambhu&layout=donut&theme=transparent&hide_border=true&langs_count=8"
+        width="100%"
+        alt="Most used programming languages"
+      />
+    </td>
+  </tr>
+</table>
