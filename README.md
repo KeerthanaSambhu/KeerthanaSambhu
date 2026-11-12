@@ -2,10 +2,8 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&duration=2500&pause=1000&color=87CEEB&center=true&vCenter=true&width=1000&lines=KEERTHANA+SAMBHU" alt="KEERTHANA SAMBHU" />
 </h1>
-<p align="center">
-  <img src="assets/hello_kitty.gif" width="35" alt="Hello Kitty animation" />
+<p align="center">  
   <strong>Computer Engineering | AI & Data Science | Building thoughtful tech solutions</strong>
-  <img src="assets/hello_kitty.gif" width="35" alt="Hello Kitty animation" />
 </p>
 </p><p align="center">
   I’m a final-year Computer Engineering student specialising in AI & Data Science.
@@ -23,7 +21,7 @@
   </a>
 </p>
 
-<h2 align="center"><img src="YOUR_GIF_URL" width="20" alt="Sparkling star" /> What I'm Interested In</h2>
+<h2 align="center"><img src="assets/hello_kitty.gif" width="35" alt="Hello Kitty animation" /> What I'm Interested In</h2>
 
 <p align="center">
   <i>Exploring ideas, building practical solutions, and continuously learning.</i>
@@ -60,12 +58,12 @@
   </tr>
 </table>
 <br/>
-<h2 align="center"><img src="YOUR_GIF_URL" width="20" alt="Sparkling star" /> Technologies & Tools</h2>
+<h2 align="center"><img src="assets/hello_kitty.gif" width="35" alt="Hello Kitty animation" /> Technologies & Tools</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,java,python,kotlin,react,fastapi,supabase,git,github,flutter,postgres,tailwind,html,css,js,ts&theme=dark&perline=8" />
 </p>
-<h2 align="center"><img src="YOUR_GIF_URL" width="20" alt="Sparkling star" /> Stats</h2>
+<h2 align="center"><img src="assets/hello_kitty.gif" width="35" alt="Hello Kitty animation" /> Stats</h2>
 
 <p align="center">
   <picture>
