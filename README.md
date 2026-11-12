@@ -54,13 +54,8 @@
 
 <p align="center">
   The languages, frameworks, and tools I use to bring ideas to life.
-</p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,java,python,kotlin,react,fastapi,streamlit,supabase,git,github,vscode,androidstudio&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,postgres,mysql,html,css,js,ts&theme=dark" />
 </p>
 ✦ Selected projects
 <table>
