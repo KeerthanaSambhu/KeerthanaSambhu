@@ -1,4 +1,4 @@
-<!-- Replace assets/profile-banner.png with the abstract banner image provided for this redesign. -->
+<img src="assets/profile-banner.png" width="100%" />
 <p align="center">
   <img src="assets/profile-banner.png" alt="Abstract dark technology banner with lavender and blue light trails" width="100%" />
 </p><h1 align="center">Hi, I'm Keerthana </h1><p align="center">
