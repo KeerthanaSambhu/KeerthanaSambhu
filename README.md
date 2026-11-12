@@ -96,14 +96,6 @@
       <a href="https://github.com/KeerthanaSambhu/which-group-what-project">View repository →</a>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3> Cardiovascular Risk Research</h3>
-      <p>An academic project exploring retinal fundus image classification and explainability for cardiovascular-risk research. It is not a clinically validated diagnostic system.</p>
-      <p><strong>Tech:</strong> Python · EfficientNet · OpenCV · Grad-CAM</p>
-      <em>Repository link to be added when the public project URL is confirmed.</em>
-    </td>
-  </tr>
 </table>✦ GitHub at a glance
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=KeerthanaSambhu&show_icons=true&hide_border=true&bg_color=0D1117&title_color=B9A5FF&icon_color=8FCBFF&text_color=C9D1D9&rank_icon=github" alt="Keerthana's GitHub statistics" />
