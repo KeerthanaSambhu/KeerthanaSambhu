@@ -58,12 +58,12 @@
   </tr>
 </table>
 <br/>
-<h2 align="center"><img src="assets/hello_kitty.gif" width="35" alt="Hello Kitty animation" /> Technologies & Tools</h2>
+<h2 align="left"><img src="assets/hello_kitty.gif" width="35" alt="Hello Kitty animation" /> Technologies & Tools</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,java,python,kotlin,react,fastapi,supabase,git,github,flutter,postgres,tailwind,html,css,js,ts&theme=dark&perline=8" />
 </p>
-<h2 align="center"><img src="assets/hello_kitty.gif" width="35" alt="Hello Kitty animation" /> Stats</h2>
+<h2 align="left"><img src="assets/hello_kitty.gif" width="35" alt="Hello Kitty animation" /> Stats</h2>
 
 <p align="center">
   <picture>
