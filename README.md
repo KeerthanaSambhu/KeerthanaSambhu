@@ -1,6 +1,4 @@
-<img src="assets/profile-banner.png" width="100%" />
-<p align="center">
-  <img src="assets/profile-banner.png" alt="Abstract dark technology banner with lavender and blue light trails" width="100%" />
+<img src="assets/download(1).jfif" alt="Profile banner" width="100%" />
 </p><h1 align="center">Hi, I'm Keerthana </h1><p align="center">
   <strong>Computer Engineering | AI & Data Science | Building thoughtful tech solutions</strong>
 </p><p align="center">
