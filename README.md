@@ -17,22 +17,24 @@
 - Full Stack Development — building responsive web applications, developing backend systems, and creating seamless user experiences.
 - Application Development — building and improving projects across web and Android.
 ✦ Technologies & tools
+
 <p align="center">
-  <img src="https://img.shields.io/badge/C-272D3B?style=flat-square&logo=c&logoColor=A8B8FF" alt="C" />
-  <img src="https://img.shields.io/badge/Java-272D3B?style=flat-square&logo=openjdk&logoColor=E6A36B" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-272D3B?style=flat-square&logo=python&logoColor=9CCBFF" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-272D3B?style=flat-square&logo=postgresql&logoColor=9CCBFF" alt="SQL" />
-  <img src="https://img.shields.io/badge/Power%20BI-272D3B?style=flat-square&logo=powerbi&logoColor=F2D36B" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Pandas-272D3B?style=flat-square&logo=pandas&logoColor=C5B5FF" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-272D3B?style=flat-square&logo=numpy&logoColor=9CCBFF" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Matplotlib-272D3B?style=flat-square&logo=python&logoColor=FFFFFF" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/React-272D3B?style=flat-square&logo=react&logoColor=8BE3F5" alt="React" />
-  <img src="https://img.shields.io/badge/FastAPI-272D3B?style=flat-square&logo=fastapi&logoColor=8DE0C2" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Streamlit-272D3B?style=flat-square&logo=streamlit&logoColor=FF9EAB" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/Kotlin-272D3B?style=flat-square&logo=kotlin&logoColor=C5A8FF" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Supabase-272D3B?style=flat-square&logo=supabase&logoColor=8DE0A8" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Git-272D3B?style=flat-square&logo=git&logoColor=F29B78" alt="Git" />
-</p>✦ Selected projects
+  <img src="https://img.shields.io/badge/C-272D3B?style=for-the-badge&logo=c&logoColor=A8B8FF" alt="C" />
+  <img src="https://img.shields.io/badge/Java-272D3B?style=for-the-badge&logo=openjdk&logoColor=E6A36B" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-272D3B?style=for-the-badge&logo=python&logoColor=9CCBFF" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-272D3B?style=for-the-badge&logo=postgresql&logoColor=9CCBFF" alt="SQL" />
+  <img src="https://img.shields.io/badge/Power%20BI-272D3B?style=for-the-badge&logo=powerbi&logoColor=F2D36B" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Pandas-272D3B?style=for-the-badge&logo=pandas&logoColor=C5B5FF" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-272D3B?style=for-the-badge&logo=numpy&logoColor=9CCBFF" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-272D3B?style=for-the-badge&logo=python&logoColor=FFFFFF" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/React-272D3B?style=for-the-badge&logo=react&logoColor=8BE3F5" alt="React" />
+  <img src="https://img.shields.io/badge/FastAPI-272D3B?style=for-the-badge&logo=fastapi&logoColor=8DE0C2" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Streamlit-272D3B?style=for-the-badge&logo=streamlit&logoColor=FF9EAB" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Kotlin-272D3B?style=for-the-badge&logo=kotlin&logoColor=C5A8FF" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Supabase-272D3B?style=for-the-badge&logo=supabase&logoColor=8DE0A8" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Git-272D3B?style=for-the-badge&logo=git&logoColor=F29B78" alt="Git" />
+</p>
+✦ Selected projects
 <table>
   <tr>
     <td width="50%" valign="top">
