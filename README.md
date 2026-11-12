@@ -75,7 +75,7 @@
       </picture>
     </td>
     <td width="30%" align="center" valign="middle">
-      <img src="assets/hello_kitty.gif" width="100%" alt="Hello Kitty animation" />
+      <img src="assets/cinnamon_roll.gif" width="100%" alt="Cinnamon Roll animation" />
     </td>
   </tr>
 </table>
