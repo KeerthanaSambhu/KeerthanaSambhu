@@ -18,7 +18,7 @@
   <a href="https://keerthana-portfolio-fawn-theta.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-E8AFC0?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:kirtna@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
